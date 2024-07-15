@@ -3,6 +3,20 @@ import os
 
 def main():
     """ Karel code goes here! """
+    move()
+    turn_left()#向右轉
+    turn_left()
+    turn_left()
+    move()
+    put_beeper()
+    turn_left()#向後轉
+    turn_left()
+    move()
+    turn_left()#向右轉
+    turn_left()
+    turn_left()
+    move()
+
     #pass
 
 

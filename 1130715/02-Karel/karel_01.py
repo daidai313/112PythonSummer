@@ -8,6 +8,13 @@ def main():
     move()
     turn_left()
     move()
+    turn_left()
+    turn_left()
+    turn_left()
+    move()
+    move()
+    put_beeper()
+    move()
 
     pass
 
