@@ -3,6 +3,12 @@ import os
 
 def main():
     """ Karel code goes here! """
+    move()
+    pick_beeper()
+    move()
+    turn_left()
+    move()
+
     pass
 
 if __name__ == "__main__":
